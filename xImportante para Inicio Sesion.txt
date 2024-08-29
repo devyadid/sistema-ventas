@@ -1,0 +1,27 @@
+
+Para Abrir el archivo PHP:
+
+
+I. Se copia y descomprime el archivo 'Sistema_Ventas.rar' en el directorio dodne se tiene instalado XAMPP o el servidor web local que se utilizará para abrir PHP, para el caso de XAMPP es:
+
+C:\xampp\htdocs\
+
+
+II. Se inicia el servidor 'xampp-control' iniciando los servicios de Apache y MySQL.
+
+(MySQL, se dejó configurado en el puerto 3307)
+
+
+III. Se abre el navegador direccionándolo con la IP Local:
+
+http://IP_Local/sistema_ventas
+
+
+
+IV. Datos para iniciar sesión por primera vez en el sistema:
+
+Usuario: devyadid
+Contraseña: 12345
+
+
+Creado por: Yadid Acero

@@ -1,0 +1,34 @@
+.login_logo {
+    height: 60%;
+    width: 60%;
+   margin: 4rem 0 0rem 6rem;
+}
+
+.login_titulo {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 2rem;
+    color: #12295b;
+}
+
+.login_titulo-b {
+    color: #e73c8e;;
+}
+
+.login_bg {
+    background-color: #002731;
+    background-image: url(../img/fondo.png);
+    background-repeat: no-repeat;
+    background-position-x: 70rem;
+    background-position-y: 20rem;
+}
+
+.menu-img {
+    height: 10rem;
+    width: 10rem;
+}
+
+.menu_bg-nav {
+    background-color: #12295b;
+   
+}
